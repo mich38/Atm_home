@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atm</string>
+    <string name="amount_search">餘額查詢</string>
+    <string name="detail">交易明細</string>
+    <string name="invest">投資理財</string>
+    <string name="leave">離開</string>
+    <string name="news">最新消息</string>
+</resources>
